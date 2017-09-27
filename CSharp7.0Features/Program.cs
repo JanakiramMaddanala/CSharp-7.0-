@@ -31,6 +31,7 @@ namespace CSharp7._0Features
         {
             int i = 123_234_1;
             WriteLine(i);
+            Write("");
             int b = 0000_0001;
             WriteLine(b);
             int h = 0xFF;
